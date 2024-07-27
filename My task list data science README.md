@@ -10,3 +10,9 @@ This task involves using the Pandas library to manipulate data.
 Responsibility:
 Load a CSV file into a Pandas DataFrame. Perform operations like filtering data based on conditions, handling missing values, and calculating summary
 statistics.
+
+TASK 3
+Description:
+This task involves using the matplotlib library to visualize data.
+Responsibility:
+Create a bar chart and a line chart using Matplotlib to visualize data from a Pandas DataFrame. Customize the charts with labels, titles, and legends.
