@@ -16,3 +16,9 @@ Description:
 This task involves using the matplotlib library to visualize data.
 Responsibility:
 Create a bar chart and a line chart using Matplotlib to visualize data from a Pandas DataFrame. Customize the charts with labels, titles, and legends.
+
+TASK 4 
+Description:
+This task involves performing exploratory data analysis on a dataset.
+Responsibility:
+Create visualizations to understand the distribution of variables, identify outliers, and check for correlations between variables.
