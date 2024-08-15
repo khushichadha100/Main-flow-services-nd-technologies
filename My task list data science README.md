@@ -22,3 +22,9 @@ Description:
 This task involves performing exploratory data analysis on a dataset.
 Responsibility:
 Create visualizations to understand the distribution of variables, identify outliers, and check for correlations between variables.
+
+TASK 4
+Description:
+Engineer new features and select relevant features for Solving relevant questions.
+Responsibility:
+This task involves presentation in the form of question and answers , selecting relevant questions and solving their answer by analysis of the data.
