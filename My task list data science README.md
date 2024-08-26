@@ -28,3 +28,10 @@ Description:
 Engineer new features and select relevant features for Solving relevant questions.
 Responsibility:
 This task involves presentation in the form of question and answers , selecting relevant questions and solving their answer by analysis of the data.
+
+TASK 6
+Description:
+Performing and Applying all the relevant skills learned till now during this internship.
+Responsibility:
+This task involves cleaning , processing and analyzing data along with presentation in the form of question and answers , selecting relevant questions and solving their answer by analysis of the data .
+
